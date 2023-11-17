@@ -1,6 +1,6 @@
 # cyber
 
-Voice Assistant Flutter App
+Fluuter Gpt
 
 ## Getting Started
 
